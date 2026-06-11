@@ -1,0 +1,4 @@
+data/*_accessibility.geojson filter=lfs diff=lfs merge=lfs -text
+data/minsk_residential_buildings.geojson filter=lfs diff=lfs merge=lfs -text
+data/minsk_houses_enriched.geojson filter=lfs diff=lfs merge=lfs -text
+data/dashboard_data.json filter=lfs diff=lfs merge=lfs -text

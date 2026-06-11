@@ -1,0 +1,14 @@
+# Cache
+cache/
+.ipynb_checkpoints/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
